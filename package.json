@@ -1,6 +1,6 @@
 {
   "name": "@devvir/bitmex-api",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "TypeScript types, Zod schemas, and typed API clients for the BitMEX REST API",
   "author": "devvir",
   "license": "MIT",
